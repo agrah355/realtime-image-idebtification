@@ -1,0 +1,42 @@
+.heading{
+    font-size: 25px;
+    width: 98%;
+    margin: 0px;
+    box-shadow: 1px 1px 10px  yellowgreen;
+    border-radius: 10px;
+}
+body{
+    text-align: center;
+}
+.main_div{
+    background-color: white;
+    color: black;
+    float: none;
+    padding: 10px;
+    border-radius: 10px;
+}
+.object_div{
+    font-size: 25px;
+}
+.result_lable{
+    font-size: 18px;
+    box-shadow: 1px 1px 10px red;
+    border-radius: 10px;
+}
+.footer_div{
+    font-size: 15px;
+    color: white;
+    background-color: black;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+    line-height: 1;
+    margin-top: 1200px;
+}
+canvas{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px black;
+    border: solid;
+    margin-top: 140px;
+}
